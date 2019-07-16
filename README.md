@@ -10,7 +10,7 @@
 
 This date range picker component for Bootstrap creates a dropdown menu from which a user can select a range of dates.
 
-Base on [bootstrap-daterangepicker](https://github.com/dangrossman/bootstrap-daterangepicker)
+Base on [react-bootstrap-datetimerangepicker](https://github.com/luqin/react-bootstrap-datetimerangepicker)
 
 Online demo: http://sumn2u.github.io/react-bootstrap-datetimerangepicker-v1
 
