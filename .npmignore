@@ -1,0 +1,10 @@
+*.idea
+.publish/
+.babelrc
+.editorconfig
+.eslintrc
+.travis.yml
+.npmignore
+config.js
+gulpfile.js
+examples/
