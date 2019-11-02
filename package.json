@@ -39,7 +39,7 @@
     "bootstrap": "3.3.5",
     "bootstrap-daterangepicker": "^2.1.19",
     "cheerio": "^0.19.0",
-    "eslint": "^1.10.3",
+    "eslint": "^6.6.0",
     "eslint-config-airbnb": "2.1.1",
     "eslint-config-onefe": "0.2.0",
     "eslint-plugin-react": "^3.11.3",
